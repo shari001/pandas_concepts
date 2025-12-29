@@ -1,16 +1,18 @@
 # Pandas Practice
 
-This repository contains Jupyter Notebooks where I practiced core concepts of **pandas**, the Python library for data analysis.
+This repository contains Jupyter Notebooks covering the full **pandas syllabus** for data analysis in Python.
 
-## 📚 Contents
-- DataFrame basics
-- Indexing & Selection
-- GroupBy operations
-- Merging & Joining
+## 📚 Topics Covered
+- DataFrame creation and indexing
+- Selection and filtering
+- GroupBy and aggregation
+- Merging and joining
 - Data cleaning and preprocessing
+- Handling missing values
+- Sorting and reshaping
 
 ## 🎯 Purpose
-These notebooks are practice exercises to strengthen my data analysis skills using pandas.  
+These notebooks are practice exercises to strengthen my pandas skills.  
 They are not full projects, but they demonstrate my learning process and coding style.
 
 ## 🛠️ How to Run
